@@ -37,7 +37,7 @@ const Navbar = () => {
         <div className="flex-auto">
           {/* <p className="text-4xl font-bold">Origin</p>
           <p className="px-2">Coffee</p> */}
-          <Image src="/origin.jpeg" alt="" width={140} height={80} />
+          <Image src="/origin.jpeg" alt="" width={100} height={80} />
           {/* <Link href="/home">Thrive</Link> */}
         </div>
 
