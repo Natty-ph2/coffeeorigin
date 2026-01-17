@@ -70,19 +70,20 @@ export const FEATURES = [
 export const FOOTER_LINKS = [
   {
     title: "Learn More",
-    links: ["About Hab", "Privacy Policy", "Contact Us"],
+    links: ["About Origin", "Privacy Policy", "Contact Us"],
   },
   {
     title: "Our Community",
-    links: ["Climbing", "Hab link", "Hablink"],
+    links: ["Climbing", "origin link", "Hablink"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
   title: "Contact Us",
   links: [
-    { label: "Admin Office", value: "+251928747043" },
-    { label: "Email Office", value: "natnaeldestaer2@gmail.com" },
+    { label: "Admin Office", value: "+971568516191" },
+    { label: "Email Office", value: " origincoffeedxb@gmail.com" },
+    { label: "Address", value: "Dubai, UAE" },
   ],
 };
 

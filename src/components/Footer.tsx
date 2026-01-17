@@ -58,7 +58,7 @@ const Footer = () => {
         </div>
         <div className="border bg-gray-500" />
         <p className="text-[14px] font-[400] w-full text-center text-gray-500">
-          2024 Thrive | All rights reserved
+          2026 OriginCoffee | All rights reserved
         </p>
       </div>
     </footer>

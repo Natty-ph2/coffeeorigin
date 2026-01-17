@@ -15,7 +15,7 @@ import InfoCard from "./InfoCard";
 export function CardDemo() {
   return (
     <Card className="w-full max-w-sm">
-      <p className="text-center w-full bg-slate-600 text-white font-bold mb-4 p-2">
+      <p className="text-center w-full bg-stone-600 text-white font-bold mb-4 p-2">
         Get Your Coffee
       </p>
       <div className="relative w-full">

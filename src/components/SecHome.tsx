@@ -47,7 +47,7 @@ const SecHome = () => {
             <BoxReveal boxColor={"#6F4E37"} duration={0.5}>
               <p className="md:text-xl font-semibold flex gap-x-2 md:gap-x-4 items-center">
                 <PiCheckBold className="text-xl text-stone-700" />
-                quality Coffee
+                Quality Coffee
               </p>
             </BoxReveal>
             <BoxReveal boxColor={"#6F4E37"} duration={0.5}>

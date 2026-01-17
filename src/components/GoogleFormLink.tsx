@@ -5,7 +5,7 @@ const GoogleFormLink = () => {
   return (
     <div className="flex  flex-col gap-3 whitespace-nowrap xl:flex-row">
       <Link
-        href="https://forms.gle/vcCdaXiMBjPyTCo37"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSdhn4jABC8bF18H-zji7dGjbVRnhCy7jzrtZ73W_-sry8qjtg/viewform"
         target="_blank"
         rel="noopener noreferrer"
         className="w-full"
