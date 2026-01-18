@@ -87,7 +87,7 @@ const SecHome = () => {
                 <div className="w-px bg-gray-300 self-stretch"></div>
                 <div className="flex-1 min-w-0">
                   <h1 className="text-stone-700 text-3xl md:text-5xl whitespace-nowrap overflow-hidden">
-                    <NumberTicker value={100} /> +
+                    <NumberTicker value={10} /> +
                     <p className="text-gray-500 text-sm md:text-md">
                       Coffee Delivered
                     </p>
